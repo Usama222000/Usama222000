@@ -31,7 +31,7 @@
 
 ##### 👨‍💻 Some of the projects I have worked recently
 
-- 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/Usama222000/)
+- 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/Usama222000?tab=repositories)
 
 - 📦 Deployment of a Wordpress Applications using three tire architecture on AWS
 
