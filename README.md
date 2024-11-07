@@ -17,7 +17,6 @@
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
-🏢 I’m currently working in [Eurus Technology](https://www.eurustechnologies.com/) as **Associate DevOps Engineer**
 
 🌱 I’m currently working on **Setting up infra using Terraform over AWS** , **Creating Automated Deployments** , **Deployment of Applications on EKS , ECS** , **Databases migration** & Many more
 
